@@ -16,5 +16,15 @@ The Student Performance Tracker is a web application built with Flask that allow
 - **JavaScript**: For client-side validation and interactivity.
 - **JSON**: For storing student data.
 
-## Directory Structure
-student-performance-tracker/ ├── app.py # Main Flask application file ├── student_tracker.py # Module that manages student data ├── requirements.txt # Dependencies for the project ├── static/ # Static files (CSS, JavaScript) │ ├── style.css # CSS stylesheet │ └── script.js # JavaScript file └── templates/ # HTML templates ├── index.html # Home page template ├── add_student.html # Template for adding a new student ├── add_grade.html # Template for adding a grade to a student ├── view_students.html # Template for viewing all students ├── view_student.html # Template for viewing a specific student's details └── class_average.html # Template for displaying class average
+
+## Installation
+
+### Prerequisites
+- **Python 3.6 or higher**: Ensure you have Python installed on your machine.
+- **pip**: The Python package installer should also be available.
+
+### Clone the Repository
+To clone the project, use the following command:
+```bash
+git clone https://github.com/Satyam-xD/student-performance-tracker.git
+cd student-performance-tracker
