@@ -18,6 +18,7 @@ The Student Performance Tracker is a web application built with Flask that allow
 
 ## Preview
 You can view the live application [here](https://student-performance-tracker.onrender.com/) 🌐.
+The application is hosted on free tier so loading may take time for the first time.
 
 
 ## Installation
