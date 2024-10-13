@@ -28,3 +28,10 @@ To clone the project, use the following command:
 ```bash
 git clone https://github.com/Satyam-xD/student-performance-tracker.git
 cd student-performance-tracker
+
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+pip install -r requirements.txt
+
+python app.py
